@@ -3,49 +3,12 @@
 ** 해당 리포지토리는 팀원들의 github 연습을 위해 만들어진 페이지 입니다. **
 
  
- 
-Bold	
-** ** or __ __	
-Command+B (Mac)
-Ctrl+B (Windows/Linux)	
-**This is bold text**	This is bold text
+프로젝트가 본격적으로 시작하기 전에 정하면 좋을 정책은 아래와 같습니다.
 
+회의 시간 및 해당 회의에서 논의할 내용
 
-Italic	
-* * or _ _     	
-Command+I (Mac) 
-Ctrl+I (Windows/Linux)	
-*This text is italicized*	
-This text is italicized
+팀원 간 소통 원칙
 
+칸반 티켓을 언제, 어떻게, 누가 추가할지
 
-Strikethrough	
-~~ ~~		
-~~This was mistaken text~~	
-This was mistaken text
-
-
-Bold and nested italic	
-** ** and _ _		
-**This text is _extremely_ important**	
-This text is extremely important
-
-
-All bold and italic	
-*** ***		
-***All this text is important***	
-All this text is important
-
-
-Subscript	
-<sub> </sub>		
-<sub>This is a subscript text</sub>	
-This is a subscript text
-
-
-Superscript	
-<sup> </sup>		
-<sup>This is a superscript text</sup>
-
-
-
+WIP 제한
